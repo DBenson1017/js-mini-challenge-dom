@@ -25,6 +25,10 @@ Open the `index.html` file in your browser and check the console in Chrome Dev T
 Figure out what you need to change to give Javascript access to the `h1#header` element.
 
 **YOUR NOTES**
+
+needed to mover the JS src to the end of the file 
+OR 
+add a DOMContentLoaded
 ```
 
 ```
